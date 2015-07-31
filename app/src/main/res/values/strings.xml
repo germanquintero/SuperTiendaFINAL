@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Sistema Tienda</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inventario_usuario">Inventario_usuario</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user_login">Super Tienda</string>
+    <string name="title_activity_datos">Datos</string>
+    <string name="titulo1">Sistema para Tienda</string>
+    <string name="username">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="register">Registrarse</string>
+    <string name="login...">Ingrseando...</string>
+    <string name="sin_conexion">Sin conexion a iternet</string>
+    <string name="log_sus">Ingreso correcto</string>
+    <string name="log_fail">Ingreso incorrecto</string>
+    <string name="cerating_user">Creando usuario...</string>
+    <string name="facturacion">Facturación</string>
+    <string name="config_prod">Configuracion de productos</string>
+    <string name="salir">Salir</string>
+    <string name="codigo">CODIGO</string>
+    <string name="producto">PRODUCTO</string>
+    <string name="precio">PRECIO</string>
+    <string name="cantidad">CANTIDAD</string>
+    <string name="ganancia">GANANCIA</string>
+    <string name="vendidos">VENDIDOS</string>
+    <string name="ventas">Ventas</string>
+    <string name="inventario">Inventario</string>
+    <string name="cargando_bases">Cargando base de datos. Por favor espere...</string>
+    <string name="about">Acerca de</string>
+    <string name="sOk">Aceptar</string>
+    <string name="sAboutInfo">Programado por:\nJose Vargas.\nGerman Quintero.\nEstudiantes de Ingeniería Electrónica\nUniversidad de Antioquia</string>
+    <string name="titulo2">Porfavor, Ingrese Usuario y Contraseña</string>
+    <string name="anadiendorpoducto">Añadiendo Producto...</string>
+    <string name="eliminandoproducto">Eliminando Producto...</string>
+    <string name="nohayqueagregar">No hay nada que agregar</string>
+    <string name="nuevafactura">Nueva Factura</string>
+    <string name="cargandobasedatos">Cargando Base de datos, por favor espere...</string>
+    <string name="codigonoinventario">El código no se encuentra en el inventario</string>
+    <string name="ingresetodos">Por favor, ingrese todos los campos</string>
+    <string name="cargandoproductos">Cargando Productos...</string>
+    <string name="pruductosterminacion">Productos en terminación</string>
+    <string name="nollegadiez">Productos con menos de 10 unidades</string>
+    <string name="reservados">Super Tienda 2015 ©</string>
+    <string name="aproduct">A producto</string>
+    <string name="efectivo">Efectivo</string>
+    <string name="cambio">Cambio: </string>
+    <string name="devuelta">Devuelta</string>
+    <string name="code">Code</string>
+    <string name="bbuscar">Buscar</string>
+    <string name="cant">Cant</string>
+    <string name="factu">Facturar</string>
+    <string name="panel">Bienvenido al Panel de Ventas</string>
+    <string name="actuapro">Actualizando Productos...</string>
+    <string name="estadoventa">Estado de la venta</string>
+    <string name="ventaexitosa">Venta exitosa, su cambio es...</string>
+    <string name="errorventa">Error en la venta, el total supera el efectivo </string>
+    <string name="ingereseefectivo">Debe Ingresar el efectivo</string>
+
+
+
+</resources>

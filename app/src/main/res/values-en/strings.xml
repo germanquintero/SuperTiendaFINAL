@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Sistema Tienda</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_inventario_usuario">Inventario_usuario</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_user_login">Super Tienda</string>
+    <string name="title_activity_datos">Data</string>
+    <string name="titulo1">Store System</string>
+    <string name="username">User</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="register">Sig In</string>
+    <string name="login...">Loading...</string>
+    <string name="sin_conexion">Your conection is Down</string>
+    <string name="log_sus">Successful Entry</string>
+    <string name="log_fail">Wrong Wntry</string>
+    <string name="cerating_user">Creating User...</string>
+    <string name="facturacion">Billing</string>
+    <string name="config_prod">Setting Products</string>
+    <string name="salir">Exit</string>
+    <string name="codigo">CODE</string>
+    <string name="producto">PRODUCT</string>
+    <string name="precio">PRICE</string>
+    <string name="cantidad">QUANTITY</string>
+    <string name="ganancia">INCOMES</string>
+    <string name="vendidos">SALES</string>
+    <string name="ventas">Sales</string>
+    <string name="inventario">Stocktaking</string>
+    <string name="cargando_bases">Loading Database, please wait...</string>
+    <string name="about">About it</string>
+    <string name="sOk">Accept</string>
+    <string name="sAboutInfo">Desing by:\nJose Vargas.\nGerman Quintero.\nEstudiantes de Ingeniería Electrónica\nUniversidad de Antioquia</string>
+    <string name="titulo2">Please, input user and password</string>
+    <string name="anadiendorpoducto">Adding Product...</string>
+    <string name="eliminandoproducto">Deleting Product...</string>
+    <string name="nohayqueagregar">Nothing to add </string>
+    <string name="nuevafactura">New bill</string>
+    <string name="cargandobasedatos">Loading database, pleas wait...</string>
+    <string name="codigonoinventario">The code is not in the inventory</string>
+    <string name="ingresetodos">Please enter all fields</string>
+    <string name="cargandoproductos">Loading products...</string>
+    <string name="pruductosterminacion">Low Products</string>
+    <string name="nollegadiez">Products with less than 10 units</string>
+    <string name="reservados">Super Tienda 2015 ©</string>
+    <string name="aproduct">Update Product</string>
+    <string name="efectivo">Cash</string>
+    <string name="cambio">Change: </string>
+    <string name="devuelta">Change</string>
+    <string name="code">Code</string>
+    <string name="bbuscar">Search</string>
+    <string name="cant">Quant</string>
+    <string name="factu">Bill</string>
+    <string name="panel">Welcome to the Panel Sales</string>
+    <string name="actuapro">updating Products...</string>
+    <string name="estadoventa">Status of sale</string>
+    <string name="ventaexitosa">Successful sale, the change is </string>
+    <string name="errorventa">Error in the sale, the total exceeds the cash </string>
+    <string name="ingereseefectivo">Please, enter the cash</string>
+
+
+
+</resources>

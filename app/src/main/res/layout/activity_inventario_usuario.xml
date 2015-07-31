@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.ga.supertienda.Inventario_usuario">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_weight="1.24"
+            android:textSize="12dp"
+            android:text="id"
+            android:textColor="#333"
+            android:layout_gravity="center"
+            android:id="@+id/inv_user_tv_id" />
+        <TextView
+            android:id="@+id/inv_user_tv_codigo"
+
+            android:layout_width="69dp"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:layout_gravity="bottom"
+            android:textColor="#333"
+            android:textSize="12dp"
+            android:textStyle="bold"
+
+            android:text="codigo" />
+        <TextView
+            android:id="@+id/inv_user_tv_producto"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_gravity="bottom"
+            android:textColor="#333"
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:text="producto" />
+        <TextView
+            android:id="@+id/inv_user_tv_precio"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_gravity="bottom"
+            android:textColor="#333"
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:text="precio" />
+        <TextView
+            android:id="@+id/inv_user_tv_cantidad"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_gravity="bottom"
+            android:textColor="#333"
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:text="cantidad" />
+
+
+    </LinearLayout>
+    <ListView
+        android:id="@+id/listAllProducts"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:dividerHeight="3dp"
+        android:background="#fff"/>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/RelativeLayout2"
+    android:background="#fffdf8ff">
+
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center">
+
+        <ImageView
+            android:layout_marginTop="20dp"
+            android:id="@+id/hola"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_gravity="center"
+            android:src="@drawable/titulo_android" />
+
+
+
+    <ImageView
+        android:layout_marginTop="10dp"
+        android:id="@+id/imgHamburger"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:src="@drawable/splash_android"
+        android:layout_weight="2"/>
+
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:textSize="20dp"
+        android:text="@string/reservados"
+        android:gravity="center_horizontal"
+        android:layout_weight="1"
+
+        />
+
+    </LinearLayout>
+
+</RelativeLayout>
